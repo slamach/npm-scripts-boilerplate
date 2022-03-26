@@ -36,6 +36,6 @@ npm build
 ```
 
 ## Contact
-Dmitry Sviridov
+Dmitry Sviridov  
 Telegram: [slamach](https://t.me/slamach)  
 Email: sviridov.dvv@gmail.com
