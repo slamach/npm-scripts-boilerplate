@@ -1,29 +1,29 @@
 # Universal Npm Scripts Boilerplate
 
-## О проекте
+## About the Project
 
-Шаблон для сборки небольших проектов, где используется JS и Sass.
+Boileplate for building small projects with JS and Sass.
 
-### Особенности проекта
-- **Browsersync:** Локальный сервер с HMR
-- **Imagemin:** Сжатие изображений с помощью Imagemin
-- **EditorConfig и Prettier:** Автоматическое форматирование исходных файлов при коммите
+### Features
+- **Browsersync:** Local server with HMR
+- **Imagemin:** Images minifying with Imagemin
+- **EditorConfig и Prettier:** Code formatting on commit
 
-### Структура проекта
-Вся разработка происходит в директории `src`.
-- `fonts` -- шрифты
-- `img` -- медиафайлы
-- `js` -- JS-скрипты
-- `scss` -- SCSS-стили
+### Project Structure
+All development takes place in the `src` directory.
+- `fonts`
+- `img`
+- `js`
+- `scss`
 
-## Сборка и запуск
+## Installation and Usage
 ```
 npm install
 ```
 
-Чтобы заработал pre-commit хук, нужно выполнять `npm install`, когда проект уже инициализирован как Git-репозиторий.
+To make the pre-commit hook work, you need to run `npm install` when the project is already initialized as a Git repository.
 
-Если проект инициализируется как репозиторий позже, нужно дополнительно выполнить `npm run prepare`.
+If the project is initialized as a repository later, you need to additionally execute `npm run prepare`.
 
 ### Development
 ```
@@ -35,7 +35,7 @@ npm start
 npm build
 ```
 
-## Контакты
-Дмитрий Свиридов  
+## Contact
+Dmitry Sviridov
 Telegram: [slamach](https://t.me/slamach)  
 Email: sviridov.dvv@gmail.com
