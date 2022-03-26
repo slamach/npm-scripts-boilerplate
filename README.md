@@ -6,7 +6,7 @@ Boileplate for building small projects with JS and Sass.
 
 ### Features
 - **Browsersync:** Local server with HMR
-- **Imagemin:** Images minifying with Imagemin
+- **Imagemin:** Image minifying with Imagemin
 - **EditorConfig и Prettier:** Code formatting on commit
 
 ### Project Structure
