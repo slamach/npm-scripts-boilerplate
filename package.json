@@ -27,7 +27,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.13",
-    "browser-sync": "^2.27.11",
+    "browser-sync": "^2.27.12",
     "cpy-cli": "^4.2.0",
     "husky": "^8.0.3",
     "imagemin-cli": "^7.0.0",
